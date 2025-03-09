@@ -43,13 +43,9 @@ pip install -r requirements.txt
 ## Repository Structure
 ```
 MAI_Event/
-│── notebooks/          # Jupyter notebooks for NLP demos
-│   ├── Sentiment_Analysis_Demo.ipynb   # Sentiment analysis using ML, VADER, and OpenAI API
-│── data/               # Sample datasets for sentiment analysis
-│── models/             # Saved models (if applicable)
-│── scripts/            # Python scripts for NLP tasks
+│── Sentiment_Analysis_Demo.ipynb   # Sentiment analysis using ML, VADER, and OpenAI API
+│── dataset.csv              # Sample datasets for sentiment analysis
 │── README.md           # Project documentation
-│── requirements.txt    # List of dependencies
 ```
 
 ## Contributing
