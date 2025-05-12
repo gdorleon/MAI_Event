@@ -48,14 +48,6 @@ MAI_Event/
 │── README.md           # Project documentation
 ```
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve this repository.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For any questions or inquiries, please contact [your email] or open an issue in this repository.
 
 Happy coding! 🚀
 
